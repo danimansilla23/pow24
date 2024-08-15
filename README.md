@@ -1,2 +1,2 @@
 # pow24
-Repositorio para la materia POW
+Repositorio para la materia POW 2024
