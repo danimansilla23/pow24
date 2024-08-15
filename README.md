@@ -1,2 +1,2 @@
 # pow24
-Repositorio para la materi POW
+Repositorio para la materia POW
